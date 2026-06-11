@@ -42,10 +42,11 @@ It includes:
 - Java Swing
 - Graphics2D
 - JTable
-- BFS
+- BFS(breadth first search)
 - Ford-Fulkerson Algorithm
 
 ## Python
+-python basics
 - Pandas
 - Scikit-Learn
 - Joblib
